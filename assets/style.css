@@ -921,7 +921,7 @@ p
   text-decoration: none;
   font-size: 40px;
   margin: 5px;
-  border: 2px #ffffff solid;
+  border: 2px #ffffff solid !important;
   width: 60px;
   height: 60px;
   padding: 2px;
